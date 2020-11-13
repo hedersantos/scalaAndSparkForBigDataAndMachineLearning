@@ -21,21 +21,21 @@ Scala tuples are 1-based (their index positions start at 1).
 Use `._` notation to access elements within a Tuple: `tuple_obj._2` accesses  
 the second element from a Tuple named "tuple_obj".  
 
-## Lists  
+### Lists  
 
 Lists are zero-based! Their index positions start at zero...  
 
-## Arrays  
+### Arrays  
 
-## Sets  
+### Sets  
 
 Scala Sets contains unique elements and may be both mutable or immutable. Sets  
-are unordered.   
+are unordered.  
 
-## Maps  
+### Maps  
 
-In Scala, a Map is a collection o Key/Value pairs (just like a Python Dictionary).  
-
+Also known as Hash Tables or Dictionaries, Scala Maps are a collection of unordered  
+key/value pairs.  
 
 *Suggested Reads:*
 
@@ -46,6 +46,10 @@ In Scala, a Map is a collection o Key/Value pairs (just like a Python Dictionary
 * [StackOverflow: Difference between array and list in Scala](<https://stackoverflow.com/questions/2712877/difference-between-array-and-list-in-scala>)  
 
 * [Scala Collections tutorial](<https://www.tutorialspoint.com/scala/scala_collections.htm>)  
+
+## Scala Programming: Level Two  
+
+### Flow Control  
 
 * [](<>)  
 
