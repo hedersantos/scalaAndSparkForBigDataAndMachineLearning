@@ -2,6 +2,10 @@
 
 ## this README file  
 
+/*-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------*/
+
 ## Scala Programming: Level One
 
 ### Values and Variables  
@@ -51,9 +55,9 @@ key/value pairs.
 
 ### Flow Control  
 
-* [](<>)  
+* [Tour of Scala: Intro](<https://docs.scala-lang.org/tour/tour-of-scala.html>)  
 
-* [](<>)  
+* [`List` object API Docs](<https://www.scala-lang.org/api/current/scala/collection/immutable/List.html>)  
 
 * [](<>)  
 
